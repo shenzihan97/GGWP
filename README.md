@@ -10,3 +10,5 @@
 ## 使用方法
 * 使用软件：NetBeans，mysql  
 * 运行服务器：Apache Tomcat  
+## 数据库截图  
+## 程序运行截图
